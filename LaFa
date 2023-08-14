@@ -1,0 +1,74 @@
+!Anime47                 
+anime47.com###sidebar > div.right-box.bl-film:nth-child(7)
+anime47.com##footer:nth-child(10)
+anime47.com##footer:nth-child(9) > div.footer:first-child
+anime47.com##header:nth-child(3) > div.header > div.container > div.widget_user_header:last-child > a.button-login-with-fb:last-child
+anime47.com##div.container:nth-child(8) > div.row:last-child > div.col-lg-4:nth-child(3) > div.right-box.bl-film:nth-child(8)
+anime47.com##div.container:nth-child(8) > div.row:last-child > div.col-lg-8:nth-child(2) > div.movie-list-index.home-v2:nth-child(2) > div.block.update:last-child
+anime47.com##div.container:nth-child(8) > div.row:last-child > div.col-lg-8:nth-child(2) > div.movie-list-index.home-v2:nth-child(2) > div.block.update:nth-child(2)
+anime47.com##div.container:nth-child(8) > div.row:last-child > div.col-lg-8:nth-child(2) > div.movie-info:nth-child(2) > div.block-movie-info.movie-info-box > div.block-wrapper.page-single:nth-child(4) > div.movie-info > div.play_comment:nth-child(4)
+anime47.com##div.container:nth-child(8) > div.row:last-child > div.col-lg-8:first-child > div.movie-info:nth-child(2) > div.block-movie-info.movie-info-box > div.play_comment:nth-child(9)
+anime47.com##div.container:nth-child(8) > div.row:last-child > div.col-lg-8:first-child > div.movie-info:nth-child(2) > div.block-movie-info.movie-info-box > div.box-rating:nth-child(6)
+anime47.com##div.container:nth-child(9) > div.row:last-child > div.col-lg-8:nth-child(2) > div.movie-info:nth-child(2) > div.block-movie-info.movie-info-box > div.block-wrapper.page-single:nth-child(4) > div.movie-info > div.play_comment:nth-child(4)
+anime47.com##div.container:nth-child(9) > div.row:last-child > div.col-lg-8:first-child > div.movie-info:nth-child(2) > div.block-movie-info.movie-info-box > div.play_comment:nth-child(9)
+anime47.com##div.container:nth-child(9) > div.row:last-child > div.col-lg-8:first-child > div.movie-info:nth-child(2) > div.block-movie-info.movie-info-box > div.box-rating:nth-child(6)
+anime47.com##div.container:nth-child(8) > div.row:last-child > div.col-lg-8:nth-child(2) > div.movie-info:nth-child(2) > div.block-movie-info.movie-info-box > div.block-wrapper.page-single:nth-child(5) > div.movie-info > div.play_comment:nth-child(4)
+anime47.com##div.container:nth-child(8) > div.row:last-child > div.col-lg-8:first-child > div.movie-list-index.home-v2:nth-child(2) > div.block.update:last-child
+anime47.com##div.container:nth-child(8) > div.row:last-child > div.col-lg-8:first-child > div.movie-list-index.home-v2:nth-child(2) > div.block.update:nth-child(2)
+anime47.*###darkBox
+anime47.*##.advertisement
+anime47.*###mceu_31
+!Nhentai        
+nhentai.net###comment-post-container
+nhentai.net###comment-container
+!youtube.com           
+youtube.com###items > yt-related-chip-cloud-renderer.style-scope.ytd-watch-next-secondary-results-renderer:first-child
+youtube.com###container > yt-formatted-string.super-title.style-scope.ytd-video-primary-info-renderer:nth-child(3)
+youtube.com###sections > ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-child(3)
+youtube.com###sections > ytd-guide-section-renderer.style-scope.ytd-guide-renderer:nth-child(4)
+youtube.com###contents > ytd-reel-shelf-renderer.style-scope.ytd-item-section-renderer:nth-child(2)
+youtube.com###contents > ytd-reel-shelf-renderer.style-scope.ytd-item-section-renderer:nth-child(3)
+youtube.com###content > ytd-rich-shelf-renderer.style-scope.ytd-rich-section-renderer
+youtube.com###header > ytd-feed-filter-chip-bar-renderer.style-scope.ytd-rich-grid-renderer
+youtube.com###voice-search-button
+!m.youtube.com                 
+m.youtube.com###app > div.page-container:nth-child(2) > ytm-watch > ytm-single-column-watch-next-results-renderer.watch-content.full-bleed-wn-thumbs:last-child > ytm-slim-video-metadata-section-renderer.scwnr-content.single-column-watch-next-modern-panels:nth-child(2) > ytm-slim-video-information-renderer:first-child > div.slim-video-metadata-information-standalone-badge:first-child
+m.youtube.com###app > div.page-container:nth-child(3) > ytm-browse > ytm-single-column-browse-results-renderer > div > div > ytm-rich-grid-renderer > div.rich-grid-renderer-header.rich-grid-sticky-header:first-child
+m.youtube.com###app > div.page-container:nth-child(3) > ytm-browse > ytm-single-column-browse-results-renderer > div > div.tab-content > ytm-tab-renderer > ytm-rich-grid-renderer > div.rich-grid-renderer-header.rich-grid-sticky-header:first-child
+m.youtube.com###app > div.page-container:nth-child(2) > ytm-watch > div.watch-below-the-player:last-child > ytm-single-column-watch-next-results-renderer.watch-content.full-bleed-wn-thumbs:last-child > ytm-item-section-renderer.scwnr-content.single-column-watch-next-modern-panels:nth-child(5)
+m.youtube.com###app > div.page-container:nth-child(2) > ytm-watch > div.watch-below-the-player:last-child > ytm-single-column-watch-next-results-renderer.watch-content.full-bleed-wn-thumbs:last-child > ytm-item-section-renderer.scwnr-content.single-column-watch-next-modern-panels:nth-child(6)
+m.youtube.com###app > div.page-container:nth-child(2) > ytm-watch > div.watch-below-the-player:last-child > ytm-single-column-watch-next-results-renderer.watch-content.full-bleed-wn-thumbs:last-child > ytm-item-section-renderer.scwnr-content.single-column-watch-next-modern-panels:last-child > lazy-list > ytm-reel-shelf-renderer.item:nth-child(14)
+m.youtube.com###app > div.page-container:nth-child(2) > ytm-watch > div.watch-below-the-player:last-child > ytm-single-column-watch-next-results-renderer.watch-content.full-bleed-wn-thumbs:last-child > ytm-item-section-renderer.scwnr-content.single-column-watch-next-modern-panels:last-child > ytm-related-chip-cloud-renderer.chips-fixed-positioning.chips-visible:first-child
+!AnimeTVN                  
+animetvn.*##div.animetvn-main-wrapper:nth-child(2) > div.content.parent-content:nth-child(3) > div.container:first-child > div.row2:first-child > div.col-xs-12.col-sm-12.col-md-13._padding_0:first-child > div.row2:last-child
+animetvn.*##div.animetvn-main-wrapper:nth-child(2) > div.content.parent-content:nth-child(3) > div.container:first-child > div.row2:first-child > div.col-xs-12.col-sm-12.col-md-13._padding_0:first-child > div.player-area-group.bgfff:first-child > div.row2:last-child > div.col-xs-12.col-sm-12.col-md-12:first-child > div.play_actions:nth-child(8)
+animetvn.*##div.animetvn-main-wrapper:nth-child(2) > div.content.parent-content:nth-child(3) > div.container:first-child > div.row2:first-child > div.col-xs-12.col-sm-12.col-md-13._padding_0:first-child > div.player-area-group.bgfff:first-child > div.row2:last-child > div.col-xs-12.col-sm-12.col-md-12:first-child > div.thongbao50:first-child
+animetvn.*##div.animetvn-main-wrapper:nth-child(2) > div.content.parent-content:nth-child(3) > div.container:first-child > div.row2:first-child > div.col-xs-12.col-sm-12.col-md-13._padding_0:first-child > div.player-area-group.bgfff:first-child > div.row2:last-child > div.col-xs-12.col-sm-12.col-md-12:first-child > div.thongbaonew:nth-child(2)
+animetvn.*##div.animetvn-main-wrapper:nth-child(2) > div.content.parent-content:nth-child(3) > div.container:first-child > div.row2:first-child > div.col-xs-12.col-sm-12.col-md-13._padding_0:first-child > div.player-area-group.bgfff:first-child > div.row2:last-child > div.col-xs-12.col-sm-12.col-md-12:first-child > div.thongbaonew:nth-child(6)
+animetvn.*##div.animetvn-main-wrapper:nth-child(2) > div.gnarty-offads:nth-child(4)
+animetvn.*##div.animetvn-main-wrapper:nth-child(2) > div.content.parent-content:nth-child(3) > div.container > div.main_page_title2:nth-child(3)
+animetvn.*##div.gnarty-offads:nth-child(7) > div.sticky_bottom:last-child
+animetvn.*##div.animetvn-main-wrapper:nth-child(2) > div.content.parent-content:nth-child(3) > div.container > div.home-main-container:last-child > div.home-main-right:last-child > div.widget:nth-child(5)
+animetvn.*##div.animetvn-main-wrapper:nth-child(2) > div.content.parent-content:nth-child(3) > div.container > div.home-main-container:last-child > div.home-main-right:last-child > h3.related_ads_title:first-child
+animetvn.*##div.animetvn-main-wrapper:nth-child(2) > div.content.parent-content:nth-child(3) > div.container > div.home-main-container:last-child > div.home-main-right:last-child > div.widget:nth-child(4)
+animetvn.*##div.animetvn-main-wrapper:nth-child(2) > div.content.parent-content:nth-child(3) > div.container > div.home-main-container:last-child > div.home-main-right:last-child > div.widget:last-child
+animetvn.*##div.animetvn-main-wrapper:nth-child(2) > div.content.parent-content:nth-child(3) > div.container > div.home-main-container:last-child > div.home-main-left:first-child > div.play_comment:nth-child(2)
+animetvn.*##div.animetvn-main-wrapper:nth-child(2) > div.content.parent-content:nth-child(3) > div.container > div.main_page_title2:nth-child(2)
+animetvn.*##div.animetvn-main-wrapper:nth-child(2) > div.content.parent-content:nth-child(3) > div.container > div.home-main-container:last-child > div.home-main-left:first-child > div.home-film-list:first-child > div.japanese-drama:nth-child(4)
+animetvn.*##div.animetvn-main-wrapper:nth-child(2) > div.content.parent-content:nth-child(3) > div.container > div.home-main-container:last-child > div.home-main-left:first-child > div.home-film-list:first-child > div.sieu-nhan:last-child
+animetvn.*##div.animetvn-main-wrapper:nth-child(2) > div.content.parent-content:nth-child(3) > div.container > div.home-main-container:last-child > div.home-main-left:first-child > div.home-film-list:first-child > div.cartoon:nth-child(3)
+animetvn.*##div.animetvn-main-wrapper:nth-child(2) > div.content.parent-content:nth-child(3) > div.container > center:nth-child(2)
+animetvn.*##div.animetvn-main-wrapper:nth-child(2) > div.content.parent-content:nth-child(3) > div.container.film-info-page > div.row2:first-child > div.col-xs-12.col-sm-12.col-md-12._padding_0 > div.main_page_title2:nth-child(2) > div.thongbaonew:first-child
+animetvn.*##div.animetvn-main-wrapper:nth-child(2) > div.content.parent-content:nth-child(3) > div.container.film-info-page > div.row2:last-child > div.home-main-left:first-child > div.info-page-wrap > div.row.related_film:last-child > div.play_comment:last-child
+animetvn.*##div.animetvn-main-wrapper:nth-child(2) > div.content.parent-content:nth-child(3) > div.container.film-info-page > div.row2:last-child > div.home-main-right:last-child > div.widget:nth-child(4)
+animetvn.*##div.animetvn-main-wrapper:nth-child(2) > div.content.parent-content:nth-child(3) > div.container.film-info-page > div.row2:last-child > div.home-main-right:last-child > div.widget:nth-child(5)
+animetvn.*##div.animetvn-main-wrapper:nth-child(2) > div.content.parent-content:nth-child(3) > div.container.film-info-page > div.row2:last-child > div.home-main-right:last-child > div.play_comment:last-child
+animetvn.*##div.animetvn-main-wrapper:nth-child(2) > div.content.parent-content:nth-child(3) > div.container > div.row2 > div.col-xs-12.col-sm-12.col-md-12 > div.thongbaonew:nth-child(2)
+animetvn.*##div.animetvn-main-wrapper:nth-child(2) > div.content.parent-content:nth-child(3) > div.container:first-child > div.row2:first-child > div.col-xs-12.col-sm-12.col-md-13._padding_0:first-child > div.player-area-group.bgfff:first-child > div.row2:last-child > div.col-xs-12.col-sm-12.col-md-12:first-child > div.thongbaonew:nth-child(3)
+animetvn.*##div.animetvn-main-wrapper:nth-child(2) > div.content.parent-content:nth-child(3) > div.container:first-child > div.row2:first-child > div.col-xs-12.col-sm-12.col-md-13._padding_0:first-child > div.player-area-group.bgfff:first-child > div.row2:last-child > div.col-xs-12.col-sm-12.col-md-12:first-child > div.thongbaonew:nth-child(7)
+animetvn.*##div.animetvn-main-wrapper:nth-child(2) > div.content.parent-content:nth-child(3) > div.container:first-child > div.row2:first-child > div.col-xs-12.col-sm-12.col-md-13._padding_0:first-child > div.player-area-group.bgfff:first-child > div.row2:last-child > div.col-xs-12.col-sm-12.col-md-12:first-child > div.play_actions:nth-child(9)
+animetvn.*##.list-inline
+animetvn.*##.play_actions
+animetvn.*###fbox-background
+animetvn.*###mobile-ads
+animetvn.*###menubentrai
